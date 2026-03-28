@@ -26,3 +26,11 @@ TASK 3: Change directories into `/etc` and list its contents.
 TASK 4: Navigating back to home directory using relative paths.
 `cd ../home/ubuntu`
 ![Navigating into the home directory using relative paths](./images/navigating-into-home-directory-using-relative-paths.png)
+
+TASK 5: Use `cd -` to toggle between previous and current directories
+`cd -`
+![toggling between previous and current directories](./images/navigating-between-previous-and-current-directories.png)
+
+TASK 6: Display absolute path of the `bash` binary using `whereis bash`.
+`whereis bash`
+![Displaying absolute paths](./images/displaying-absolute-path-using-whereis-bash.png)
