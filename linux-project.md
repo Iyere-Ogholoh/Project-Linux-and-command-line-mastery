@@ -1,6 +1,6 @@
 # PROJECT: LINUX AND COMMAND LINE MASTERY.
 
-## DOCUMENTATION OF LINUX AND COMMAND LINE MASTERY PROJECT.
+## LINUX FILE SYSTEM NAVIGATION.
 
 TASK 1: Print the current working directory using pwd
 
@@ -22,3 +22,7 @@ TASK 3: Change directories into `/etc` and list its contents.
 ![changing directory into etc and listing contents](./images/changing-directory-and%20-listing-contents-page3.png)
 ![changing directory into etc and listing contents](./images/changing-directory-and%20-listing-contents-page4.png)
 ![changing directory into etc and listing contents](./images/changing-directory-and%20-listing-contents-page5.png)
+
+TASK 4: Navigating back to home directory using relative paths.
+`cd ../home/ubuntu`
+![Navigating into the home directory using relative paths](./images/navigating-into-home-directory-using-relative-paths.png)
